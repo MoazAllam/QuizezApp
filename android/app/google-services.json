@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647389831685",
+    "project_id": "expert-academy-f150c",
+    "storage_bucket": "expert-academy-f150c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647389831685:android:66667e9854e6e086c8726c",
+        "android_client_info": {
+          "package_name": "com.expert.academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647389831685-pmavkdv91t4cvulb2gcnam3pc1964phl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJG3bh7lxL8L7zXDLNE21kxG4R8iz69L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647389831685-pmavkdv91t4cvulb2gcnam3pc1964phl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
